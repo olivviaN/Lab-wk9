@@ -1,7 +1,7 @@
 import java.util.Date;
 
 public class LoanString {
-
+// creating a change in  the code blah 
         private String annualInterestRate; // interest rate including % symbol
         private int noOfYears;
         private double loanAmount;
